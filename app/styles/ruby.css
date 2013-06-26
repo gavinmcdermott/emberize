@@ -24,7 +24,6 @@ header img{
 .map-wrapper {
    height: 95%; /* IE6: treaded as min-height*/
    /*min-height:80%; *//* real browsers */
-   background-color: red;
 }
 
 .map {
