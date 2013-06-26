@@ -1,5 +1,5 @@
 Ruby.SearchMapView = Ember.View.extend({
-    tagName: 'section',
+    tagName: 'div',
     classNames: ['map'],
 
     map: null,
@@ -23,36 +23,25 @@ Ruby.SearchMapView = Ember.View.extend({
                         ]
                   }
                 ];
-
-
-
         var mapOptions = {
-
-
-
-
-
             zoom: 12,
             center: new google.maps.LatLng("37.0", "-122.0"),
             minZoom : 12,
             maxZoom : 19,
             panControl:false,
-            mapTypeControlOptions: {
+	        mapTypeControlOptions: {
                 mapTypeIds: ['mystyle']
             },
             mapTypeId: 'mystyle',
             mapTypeControl:false,
             streetViewControl: false,
             keyboardShortcuts: false
-
-
-
         };
 //        debugger;
         var map = new google.maps.Map(this.$().get(0),mapOptions);
         map.mapTypes.set('mystyle', new google.maps.StyledMapType(mapStyle, { name: 'Map' }));
         this.set('map',map); //save for future updations
-        this.$().css({ width: window.width, height: window.outerHeight });
+	    //this.$().css('height', window.innerHeight - 90);
     }
 
 //    reRenderMap : function(){
