@@ -1,6 +1,7 @@
 Ruby.SearchMapView = Ember.View.extend({
     tagName: 'div',
     classNames: ['map'],
+    attributeBindings: ['style'],
 
     map: null,
     latitudeBinding: '37.0',
@@ -8,21 +9,22 @@ Ruby.SearchMapView = Ember.View.extend({
 
     didInsertElement: function() {
         var mapStyle = [
-                  {
-                        featureType: "poi",
-                        elementType: "labels",
-                        stylers: [
-                          { visibility: "off" }
-                        ]
-                  },
-                       {
-                        featureType: "landscape",
-                        elementType: "labels",
-                        stylers: [
-                          { visibility: "off" }
-                        ]
-                  }
-                ];
+            {
+                featureType: "poi",
+                elementType: "labels",
+                stylers: [
+                    { visibility: "off" }
+                ]
+            },
+            {
+                featureType: "landscape",
+                elementType: "labels",
+                stylers: [
+                    { visibility: "off" }
+                ]
+            }
+        ];
+
         var mapOptions = {
             zoom: 12,
             center: new google.maps.LatLng("37.0", "-122.0"),
@@ -37,11 +39,9 @@ Ruby.SearchMapView = Ember.View.extend({
             streetViewControl: false,
             keyboardShortcuts: false
         };
-//        debugger;
         var map = new google.maps.Map(this.$().get(0),mapOptions);
         map.mapTypes.set('mystyle', new google.maps.StyledMapType(mapStyle, { name: 'Map' }));
         this.set('map',map); //save for future updations
-	    //this.$().css('height', window.innerHeight - 90);
     }
 
 //    reRenderMap : function(){

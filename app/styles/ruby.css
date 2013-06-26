@@ -22,8 +22,7 @@ header img{
 }
 
 .map-wrapper {
-   height: 95%; /* IE6: treaded as min-height*/
-   /*min-height:80%; *//* real browsers */
+   height: 92.7%; /* IE6: treaded as min-height*/
 }
 
 .map {
