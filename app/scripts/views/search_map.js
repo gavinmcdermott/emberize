@@ -3,27 +3,64 @@ Ruby.SearchMapView = Ember.View.extend({
     classNames: ['map'],
 
     map: null,
-    latitudeBinding: 'controller.content.geometry.lat',
-    longitudeBinding: 'controller.content.geometry.lng',
+    latitudeBinding: '37.0',
+    longitudeBinding: '-122.0',
 
     didInsertElement: function() {
-            var mapOptions = {
-                center: new google.maps.LatLng(0, 0),
-                zoom: 16,
-                mapTypeId: google.maps.MapTypeId.ROADMAP,
-                mapTypeControl: false
-            };
-            var map = new google.maps.Map(this.$().get(0),mapOptions);
-            this.set('map',map); //save for future updations
-            this.$().css({ width: "550px", height: "400px" });
-    },
+        var mapStyle = [
+                  {
+                        featureType: "poi",
+                        elementType: "labels",
+                        stylers: [
+                          { visibility: "off" }
+                        ]
+                  },
+                       {
+                        featureType: "landscape",
+                        elementType: "labels",
+                        stylers: [
+                          { visibility: "off" }
+                        ]
+                  }
+                ];
 
-    reRenderMap : function(){
-        var newLoc = new google.maps.LatLng(this.get('latitude'), this.get('longitude'));
-        this.get('map').setCenter(newLoc);
-        var marker = new google.maps.Marker({
-            position: new google.maps.LatLng(this.get('latitude'), this.get('longitude')),
-            map: this.get('map')
-        });
-    }.observes('latitude','longitude')
+
+
+        var mapOptions = {
+
+
+
+
+
+            zoom: 12,
+            center: new google.maps.LatLng("37.0", "-122.0"),
+            minZoom : 12,
+            maxZoom : 19,
+            panControl:false,
+            mapTypeControlOptions: {
+                mapTypeIds: ['mystyle']
+            },
+            mapTypeId: 'mystyle',
+            mapTypeControl:false,
+            streetViewControl: false,
+            keyboardShortcuts: false
+
+
+
+        };
+//        debugger;
+        var map = new google.maps.Map(this.$().get(0),mapOptions);
+        map.mapTypes.set('mystyle', new google.maps.StyledMapType(mapStyle, { name: 'Map' }));
+        this.set('map',map); //save for future updations
+        this.$().css({ width: window.width, height: window.outerHeight });
+    }
+
+//    reRenderMap : function(){
+//        var newLoc = new google.maps.LatLng(this.get('latitude'), this.get('longitude'));
+//        this.get('map').setCenter(newLoc);
+//        var marker = new google.maps.Marker({
+//            position: new google.maps.LatLng(this.get('latitude'), this.get('longitude')),
+//            map: this.get('map')
+//        });
+//    }.observes('latitude','longitude')
 });

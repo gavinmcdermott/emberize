@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3caf01f-8631-48ff-8059-5a6a3fd815e3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/partials/_header.hbs" afterPath="$PROJECT_DIR$/app/templates/partials/_header.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/map/index.hbs" afterPath="$PROJECT_DIR$/app/templates/map/index.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/search.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/models/search.js" afterPath="$PROJECT_DIR$/app/scripts/models/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/views/search_map.js" afterPath="$PROJECT_DIR$/app/scripts/views/search_map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="emberize.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,7 +22,6 @@
     <file path="/_header.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372271972835" ignored="false" />
     <file path="/ruby.css" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372268122222" ignored="false" />
     <file path="/normalize.css" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372267800845" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372273519310" ignored="false" />
     <file path="/*.regexp" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372273389935" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +45,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="63" selection-start="634" selection-end="634" vertical-scroll-proportion="-11.25">
+            <state line="20" column="25" selection-start="812" selection-end="812" vertical-scroll-proportion="-11.25">
               <folding />
             </state>
           </provider>
@@ -57,7 +63,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
+            <state line="5" column="20" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -75,7 +81,7 @@
       <file leaf-file-name="_header.hbs" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="9" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0795756">
+            <state line="4" column="39" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0530504">
               <folding />
             </state>
           </provider>
@@ -619,7 +625,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
+        <state line="5" column="20" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -654,14 +660,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="63" selection-start="634" selection-end="634" vertical-scroll-proportion="-11.25">
+        <state line="20" column="25" selection-start="812" selection-end="812" vertical-scroll-proportion="-11.25">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0795756">
+        <state line="4" column="39" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0530504">
           <folding />
         </state>
       </provider>
