@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3caf01f-8631-48ff-8059-5a6a3fd815e3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/application.hbs" afterPath="$PROJECT_DIR$/app/templates/application.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/models/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/views/search_map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/map/index.hbs" afterPath="$PROJECT_DIR$/app/templates/map/index.hbs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="emberize.iws" />
@@ -48,7 +51,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.079435125">
+            <state line="7" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0928382">
               <folding />
             </state>
           </provider>
@@ -136,6 +139,7 @@
         <option value="$PROJECT_DIR$/app/styles/ruby.css" />
         <option value="$PROJECT_DIR$/app/templates/_header.hbs" />
         <option value="$PROJECT_DIR$/app/templates/application.hbs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -599,7 +603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="61" selection-end="61" vertical-scroll-proportion="0.079435125">
+        <state line="7" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0928382">
           <folding />
         </state>
       </provider>
