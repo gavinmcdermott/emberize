@@ -1,9 +1,10 @@
 /*global Ember */
 
-window.Ruby = Ember.Application.create({});
+var Ruby = window.Ruby = Ember.Application.create({});
 
 /* Order and include as you please. */
 require('scripts/routes/*');
-// require('scripts/controllers/*');
-// require('scripts/models/*');
-// require('scripts/views/*');
+require('scripts/controllers/*');
+require('scripts/models/*');
+require('scripts/views/*');
+

@@ -26,3 +26,9 @@ Ruby.SearchRoute = Ember.Route.extend({
 		this.transitionTo('map')
 	}
 });
+
+Ruby.MapRoute = Ember.Route.extend({
+    renderTemplate: function() {
+        this.render("map/index");
+    }
+});

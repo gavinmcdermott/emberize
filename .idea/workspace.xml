@@ -2,24 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3caf01f-8631-48ff-8059-5a6a3fd815e3" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/styles/ruby.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/_header.hbs" afterPath="$PROJECT_DIR$/app/templates/_header.hbs" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/map/index.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/map.hbs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/templates/_header.hbs" afterPath="$PROJECT_DIR$/app/templates/partials/_header.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/application.hbs" afterPath="$PROJECT_DIR$/app/templates/application.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/style.css" afterPath="$PROJECT_DIR$/app/styles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/index.hbs" afterPath="$PROJECT_DIR$/app/templates/index.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/routes/routing.js" afterPath="$PROJECT_DIR$/app/scripts/routes/routing.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="emberize.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372266182536" ignored="false" />
+    <file path="/Dummy.txt" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372268340799" ignored="false" />
     <file path="/main.scss" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372265298952" ignored="false" />
     <file path="/index.html" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372267683744" ignored="false" />
+<<<<<<< HEAD
     <file path="/app.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372266576755" ignored="false" />
     <file path="/routing.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372266793001" ignored="false" />
     <file path="/application.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372267510252" ignored="false" />
     <file path="/_header.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372268689543" ignored="false" />
+=======
+    <file path="/app.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372268695180" ignored="false" />
+    <file path="/routing.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372269282431" ignored="false" />
+    <file path="/application.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372268914651" ignored="false" />
+    <file path="/_header.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372268829982" ignored="false" />
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
     <file path="/ruby.css" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372268122222" ignored="false" />
     <file path="/normalize.css" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372267800845" ignored="false" />
+    <file path="/index.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372269143936" ignored="false" />
+    <file path="/dummy.xml" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372268764800" ignored="false" />
+    <file path="/map.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372269236029" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,46 +56,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
+      <file leaf-file-name="routing.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/scripts/routes/routing.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="25" selection-start="353" selection-end="353" vertical-scroll-proportion="-6.25">
+            <state line="30" column="32" selection-start="678" selection-end="678" vertical-scroll-proportion="0.5033557">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.hbs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+<<<<<<< HEAD
       <file leaf-file-name="_header.hbs" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/templates/_header.hbs">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="9" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0795756">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="normalize.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/normalize.css">
+=======
+      <file leaf-file-name="map.hbs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/map.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="6" selection-start="1549" selection-end="1549" vertical-scroll-proportion="0.0">
+            <state line="1" column="7" selection-start="8" selection-end="8" vertical-scroll-proportion="-0.625">
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.hbs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/map/index.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="ruby.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/styles/ruby.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="9" column="1" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+=======
+      <file leaf-file-name="_header.hbs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="9" selection-start="123" selection-end="123" vertical-scroll-proportion="-3.125">
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
               <folding />
             </state>
           </provider>
@@ -87,29 +109,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routing.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/routes/routing.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="3" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="106018" selection-end="106018" vertical-scroll-proportion="0.0">
+            <state line="10" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -135,22 +135,29 @@
       <list>
         <option value="$PROJECT_DIR$/app/styles/main.scss" />
         <option value="$PROJECT_DIR$/.tmp/scripts/combined-scripts.js" />
-        <option value="$PROJECT_DIR$/app/scripts/app.js" />
-        <option value="$PROJECT_DIR$/app/scripts/routes/routing.js" />
         <option value="$PROJECT_DIR$/app/styles/style.css" />
-        <option value="$PROJECT_DIR$/app/templates/application.hbs" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/styles/normalize.css" />
         <option value="$PROJECT_DIR$/app/styles/ruby.css" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/templates/_header.hbs" />
+=======
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/templates/index.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/_header.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/application.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/map/index.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/map.hbs" />
+        <option value="$PROJECT_DIR$/app/scripts/routes/routing.js" />
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="723" />
-    <option name="y" value="57" />
-    <option name="width" value="1823" />
-    <option name="height" value="1279" />
+    <option name="x" value="10" />
+    <option name="y" value="22" />
+    <option name="width" value="1900" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -178,7 +185,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -226,6 +232,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emberize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emberize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="map" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -307,16 +335,18 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/templates/partials" />
       <recent name="$PROJECT_DIR$/app/images" />
     </key>
   </component>
@@ -375,15 +405,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="723" y="57" width="1823" height="1279" extended-state="0" />
+=======
+    <frame x="10" y="22" width="1900" height="1040" extended-state="0" />
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26617897" sideWeight="0.6704055" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18446602" sideWeight="0.6704055" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -392,6 +429,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -458,6 +496,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="106018" selection-end="106018" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -484,52 +529,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="106018" selection-end="106018" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/routes/routing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="3" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="6" selection-start="1549" selection-end="1549" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/ruby.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+        <state line="13" column="1" selection-start="164" selection-end="164" vertical-scroll-proportion="0.2181208">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="25" selection-start="353" selection-end="353" vertical-scroll-proportion="-6.25">
+        <state line="10" column="25" selection-start="353" selection-end="353" vertical-scroll-proportion="0.1724138">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="106018" selection-end="106018" vertical-scroll-proportion="0.20431328">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="19" selection-start="2312" selection-end="2312" vertical-scroll-proportion="0.60402685">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/scripts/routes/routing.js">
+=======
+    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/styles/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="6" selection-start="1549" selection-end="1549" vertical-scroll-proportion="0.0">
+=======
+    <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="9" selection-start="123" selection-end="123" vertical-scroll-proportion="-3.125">
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/styles/ruby.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0">
+=======
+    <entry file="file://$PROJECT_DIR$/app/templates/map/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="25" selection-start="353" selection-end="353" vertical-scroll-proportion="-6.25">
+=======
+    <entry file="file://$PROJECT_DIR$/app/templates/map.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="7" selection-start="8" selection-end="8" vertical-scroll-proportion="-0.625">
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -540,6 +632,11 @@
     <entry file="file://$PROJECT_DIR$/app/templates/_header.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="9" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0795756">
+=======
+    <entry file="file://$PROJECT_DIR$/app/scripts/routes/routing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="32" selection-start="678" selection-end="678" vertical-scroll-proportion="0.5033557">
+>>>>>>> 09fd9055d230e54763ff2077adbc27811dac4abc
           <folding />
         </state>
       </provider>
