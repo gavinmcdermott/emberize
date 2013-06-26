@@ -4,6 +4,7 @@
     <list default="true" id="a3caf01f-8631-48ff-8059-5a6a3fd815e3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/partials/_header.hbs" afterPath="$PROJECT_DIR$/app/templates/partials/_header.hbs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/map/index.hbs" afterPath="$PROJECT_DIR$/app/templates/map/index.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/ruby.css" afterPath="$PROJECT_DIR$/app/styles/ruby.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/views/search_map.js" afterPath="$PROJECT_DIR$/app/scripts/views/search_map.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -45,7 +46,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="42" selection-start="683" selection-end="683" vertical-scroll-proportion="-11.25">
+            <state line="17" column="42" selection-start="682" selection-end="682" vertical-scroll-proportion="-10.625">
               <folding />
             </state>
           </provider>
@@ -60,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_header.hbs" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_header.hbs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="9" selection-start="264" selection-end="264" vertical-scroll-proportion="0.12096774">
+            <state line="4" column="42" selection-start="128" selection-end="128" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
@@ -81,7 +82,7 @@
       <file leaf-file-name="search_map.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/views/search_map.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="33" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+            <state line="43" column="56" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -90,7 +91,7 @@
       <file leaf-file-name="index.hbs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/map/index.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="22" selection-start="12" selection-end="22" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -105,10 +106,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ruby.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ruby.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/styles/ruby.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="6" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
+            <state line="21" column="1" selection-start="310" selection-end="310" vertical-scroll-proportion="0.353139">
               <folding />
             </state>
           </provider>
@@ -143,11 +144,11 @@
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/styles/normalize.css" />
         <option value="$PROJECT_DIR$/app/styles/style.css" />
-        <option value="$PROJECT_DIR$/app/scripts/views/search_map.js" />
         <option value="$PROJECT_DIR$/app/templates/application.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/partials/_header.hbs" />
+        <option value="$PROJECT_DIR$/app/scripts/views/search_map.js" />
         <option value="$PROJECT_DIR$/app/templates/map/index.hbs" />
         <option value="$PROJECT_DIR$/app/styles/ruby.css" />
-        <option value="$PROJECT_DIR$/app/templates/partials/_header.hbs" />
       </list>
     </option>
   </component>
@@ -640,7 +641,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="42" selection-start="683" selection-end="683" vertical-scroll-proportion="-11.25">
+        <state line="17" column="42" selection-start="682" selection-end="682" vertical-scroll-proportion="-10.625">
           <folding />
         </state>
       </provider>
@@ -655,34 +656,6 @@
     <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="25" selection-start="139" selection-end="139" vertical-scroll-proportion="0.08408072">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/views/search_map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="33" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/map/index.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="22" selection-start="12" selection-end="22" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/routes/routing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="27" selection-start="573" selection-end="573" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/ruby.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="6" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -703,7 +676,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="9" selection-start="264" selection-end="264" vertical-scroll-proportion="0.12096774">
+        <state line="4" column="42" selection-start="128" selection-end="128" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/views/search_map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="56" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/map/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/routes/routing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="27" selection-start="573" selection-end="573" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/ruby.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="1" selection-start="310" selection-end="310" vertical-scroll-proportion="0.353139">
           <folding />
         </state>
       </provider>
