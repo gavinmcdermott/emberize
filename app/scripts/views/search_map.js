@@ -9,21 +9,21 @@ Ruby.SearchMapView = Ember.View.extend({
 
     didInsertElement: function() {
         var mapStyle = [
-                  {
-                        featureType: "poi",
-                        elementType: "labels",
-                        stylers: [
-                          { visibility: "off" }
-                        ]
-                  },
-                       {
-                        featureType: "landscape",
-                        elementType: "labels",
-                        stylers: [
-                          { visibility: "off" }
-                        ]
-                  }
-                ];
+            {
+                featureType: "poi",
+                elementType: "labels",
+                stylers: [
+                    { visibility: "off" }
+                ]
+            },
+            {
+                featureType: "landscape",
+                elementType: "labels",
+                stylers: [
+                    { visibility: "off" }
+                ]
+            }
+        ];
 
         var mapOptions = {
             zoom: 12,

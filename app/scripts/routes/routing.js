@@ -28,6 +28,10 @@ Ruby.SearchRoute = Ember.Route.extend({
 });
 
 Ruby.MapRoute = Ember.Route.extend({
+    model: function() {
+        return Ruby.Listing.find(Ruby.Search.toDict());
+    },
+
     renderTemplate: function() {
         this.render("map/index");
     }
