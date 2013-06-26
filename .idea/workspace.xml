@@ -2,32 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3caf01f-8631-48ff-8059-5a6a3fd815e3" name="Default" comment="">
-<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/map/index.hbs" afterPath="$PROJECT_DIR$/app/templates/map/index.hbs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-=======
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/lib/ember-model.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/search.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/models/search.js" afterPath="$PROJECT_DIR$/app/scripts/models/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/views/search_map.js" afterPath="$PROJECT_DIR$/app/scripts/views/search_map.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
     </list>
     <ignored path="emberize.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372270934607" ignored="false" />
     <file path="/main.scss" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372265298952" ignored="false" />
-<<<<<<< HEAD
-    <file path="/index.html" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372267683744" ignored="false" />
-    <file path="/app.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372266576755" ignored="false" />
-=======
-    <file path="/index.html" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372271102025" ignored="false" />
-    <file path="/app.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372271812975" ignored="false" />
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
+    <file path="/index.html" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372272794190" ignored="false" />
+    <file path="/app.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372272071928" ignored="false" />
     <file path="/routing.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372266793001" ignored="false" />
     <file path="/application.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372269747268" ignored="false" />
     <file path="/_header.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372271296578" ignored="false" />
     <file path="/ruby.css" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372268122222" ignored="false" />
     <file path="/normalize.css" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372267800845" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372271831160" ignored="false" />
+    <file path="/search.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372272448387" ignored="false" />
+    <file path="/index.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372272862047" ignored="false" />
+    <file path="/search_map.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372273824044" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,105 +42,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state line="19" column="0" selection-start="635" selection-end="635" vertical-scroll-proportion="0.328341">
-=======
-            <state line="18" column="63" selection-start="634" selection-end="634" vertical-scroll-proportion="-11.25">
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
+            <state line="18" column="42" selection-start="683" selection-end="683" vertical-scroll-proportion="-11.25">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="search_map.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="search.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/models/search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="3" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search_map.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/scripts/views/search_map.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="21" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
-=======
-      <file leaf-file-name="ember-model.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/lib/ember-model.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="567" column="42" selection-start="14899" selection-end="14899" vertical-scroll-proportion="-34.52">
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
+            <state line="54" column="70" selection-start="1498" selection-end="1498" vertical-scroll-proportion="0.80261594">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_header.hbs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
+      <file leaf-file-name="index.hbs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/map/index.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="9" selection-start="195" selection-end="195" vertical-scroll-proportion="-3.75">
+            <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-=======
-      <file leaf-file-name="application.hbs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
+      <file leaf-file-name="search.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/search.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="10" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_header.hbs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="normalize.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/normalize.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="6" selection-start="1549" selection-end="1549" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ruby.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/ruby.css">
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="application.hbs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="10" selection-start="41" selection-end="41" vertical-scroll-proportion="-1.25">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routing.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/routes/routing.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="3" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0">
-=======
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.1458886">
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
+            <state line="2" column="34" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -177,31 +113,22 @@
         <option value="$PROJECT_DIR$/app/styles/ruby.css" />
         <option value="$PROJECT_DIR$/app/templates/_header.hbs" />
         <option value="$PROJECT_DIR$/app/templates/application.hbs" />
-        <option value="$PROJECT_DIR$/app/scripts/views/search_map.js" />
         <option value="$PROJECT_DIR$/app/templates/partials/_header.hbs" />
         <option value="$PROJECT_DIR$/.gitignore" />
-<<<<<<< HEAD
-=======
-        <option value="$PROJECT_DIR$/app/bower_components/ember-model/ember-model.js" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/scripts/models/search.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/search.js" />
+        <option value="$PROJECT_DIR$/app/templates/map/index.hbs" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/scripts/views/search_map.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-<<<<<<< HEAD
     <option name="x" value="10" />
     <option name="y" value="22" />
     <option name="width" value="1900" />
     <option name="height" value="1040" />
-=======
-    <option name="x" value="616" />
-    <option name="y" value="46" />
-    <option name="width" value="1823" />
-    <option name="height" value="1279" />
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -315,7 +242,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-<<<<<<< HEAD
               <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -338,8 +264,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-=======
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
               <option name="myItemId" value="styles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -402,11 +326,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-<<<<<<< HEAD
               <option name="myItemId" value="routes" />
-=======
-              <option name="myItemId" value="lib" />
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -424,7 +344,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emberize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emberize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -469,11 +415,6 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-<<<<<<< HEAD
-=======
-      <recent name="$PROJECT_DIR$/app/scripts/lib" />
-      <recent name="$PROJECT_DIR$/app/bower_components/ember-model" />
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
       <recent name="$PROJECT_DIR$/app/images" />
     </key>
   </component>
@@ -549,11 +490,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
     <frame x="10" y="22" width="1900" height="1040" extended-state="0" />
-=======
-    <frame x="616" y="46" width="1823" height="1279" extended-state="0" />
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -636,27 +573,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="106018" selection-end="106018" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="13" selection-start="149" selection-end="176" vertical-scroll-proportion="0.18551236" />
@@ -681,16 +597,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="114" selection-end="114" vertical-scroll-proportion="0.08389262">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-=======
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
     <entry file="file://$PROJECT_DIR$/app/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="106018" selection-end="106018" vertical-scroll-proportion="0.20431328">
@@ -698,90 +604,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/views/search_map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="21" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/routes/routing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="3" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="10" selection-start="41" selection-end="41" vertical-scroll-proportion="-1.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
-=======
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="195" selection-end="195" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="636" column="12" selection-start="33931" selection-end="33931" vertical-scroll-proportion="0.0">
-=======
-        <state line="557" column="14" selection-start="30234" selection-end="30234" vertical-scroll-proportion="0.35599285">
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
+        <state line="6" column="7" selection-start="334" selection-end="334" vertical-scroll-proportion="0.102389075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="20" selection-start="60" selection-end="60" vertical-scroll-proportion="0.08408072">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="5" column="20" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
-=======
-        <state line="5" column="13" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
+        <state line="6" column="9" selection-start="195" selection-end="195" vertical-scroll-proportion="0.10368664">
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="635" selection-end="635" vertical-scroll-proportion="0.328341">
-=======
-    <entry file="file://$PROJECT_DIR$/app/scripts/lib/ember-model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="567" column="42" selection-start="14899" selection-end="14899" vertical-scroll-proportion="-34.52">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="63" selection-start="634" selection-end="634" vertical-scroll-proportion="-11.25">
+        <state line="2" column="10" selection-start="41" selection-end="41" vertical-scroll-proportion="0.03456221">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.1458886">
->>>>>>> a9ab1e67d640b6d0aae832aa961ec9478a3f0e5c
+        <state line="5" column="25" selection-start="139" selection-end="139" vertical-scroll-proportion="0.08408072">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/routes/routing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="3" selection-start="722" selection-end="722" vertical-scroll-proportion="0.5549327">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="42" selection-start="683" selection-end="683" vertical-scroll-proportion="-11.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/map/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="34" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/models/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="3" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/views/search_map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="70" selection-start="1498" selection-end="1498" vertical-scroll-proportion="0.80261594">
           <folding />
         </state>
       </provider>
