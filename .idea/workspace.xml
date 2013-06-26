@@ -2,22 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3caf01f-8631-48ff-8059-5a6a3fd815e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/lib/ember-model.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/partials/_header.hbs" afterPath="$PROJECT_DIR$/app/templates/partials/_header.hbs" />
     </list>
     <ignored path="emberize.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372269729026" ignored="false" />
+    <file path="/Dummy.txt" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372272655524" ignored="false" />
     <file path="/main.scss" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372265298952" ignored="false" />
     <file path="/index.html" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372271102025" ignored="false" />
     <file path="/app.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372271812975" ignored="false" />
     <file path="/routing.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372266793001" ignored="false" />
     <file path="/application.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372269747268" ignored="false" />
-    <file path="/_header.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372268689543" ignored="false" />
+    <file path="/_header.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372271972835" ignored="false" />
     <file path="/ruby.css" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372268122222" ignored="false" />
     <file path="/normalize.css" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372267800845" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372273519310" ignored="false" />
+    <file path="/*.regexp" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372273389935" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_header.hbs" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_header.hbs" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
+            <state line="6" column="9" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0795756">
               <folding />
             </state>
           </provider>
@@ -100,10 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.1458886">
+            <state line="11" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -149,6 +148,7 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/templates/partials/_header.hbs" />
       </list>
     </option>
   </component>
@@ -381,6 +381,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="editor.preferences.handlebarsOptions" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Github/Bottomless" />
     <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -637,16 +638,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
+    <entry file="file://$PROJECT_DIR$/app/scripts/lib/ember-model.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
+        <state line="567" column="42" selection-start="14899" selection-end="14899" vertical-scroll-proportion="-34.52">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/lib/ember-model.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="567" column="42" selection-start="14899" selection-end="14899" vertical-scroll-proportion="-34.52">
+        <state line="11" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -658,9 +659,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.1458886">
+        <state line="6" column="9" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0795756">
           <folding />
         </state>
       </provider>
