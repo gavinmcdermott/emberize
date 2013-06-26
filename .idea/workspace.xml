@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3caf01f-8631-48ff-8059-5a6a3fd815e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/models/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/views/search_map.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/map/index.hbs" afterPath="$PROJECT_DIR$/app/templates/map/index.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/partials/_header.hbs" afterPath="$PROJECT_DIR$/app/templates/partials/_header.hbs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="emberize.iws" />
@@ -25,6 +22,7 @@
     <file path="/map.hbs" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372269236029" ignored="false" />
     <file path="/map_view.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372270545015" ignored="false" />
     <file path="/search.js" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372270597855" ignored="false" />
+    <file path="/.gitignore" changelist="a3caf01f-8631-48ff-8059-5a6a3fd815e3" time="1372270810538" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
       <file leaf-file-name="_header.hbs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="9" selection-start="123" selection-end="123" vertical-scroll-proportion="-3.125">
+            <state line="6" column="9" selection-start="166" selection-end="166" vertical-scroll-proportion="-3.125">
               <folding />
             </state>
           </provider>
@@ -89,10 +87,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="search.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers/search.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="3" selection-start="60" selection-end="60" vertical-scroll-proportion="0.033557046">
+            <state line="2" column="3" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.117713004">
               <folding />
             </state>
           </provider>
@@ -125,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.tmp/scripts/combined-scripts.js" />
         <option value="$PROJECT_DIR$/app/styles/style.css" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/styles/normalize.css" />
@@ -141,6 +147,7 @@
         <option value="$PROJECT_DIR$/app/scripts/controllers/search.js" />
         <option value="$PROJECT_DIR$/app/scripts/views/search_map.js" />
         <option value="$PROJECT_DIR$/app/scripts/models/search.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -489,13 +496,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1900" height="1040" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18446602" sideWeight="0.6704055" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18446602" sideWeight="0.6704055" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -571,11 +578,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="149" selection-end="176" vertical-scroll-proportion="0.18551236" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.tmp/scripts/combined-scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="28" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0928382">
@@ -655,7 +657,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/partials/_header.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="9" selection-start="123" selection-end="123" vertical-scroll-proportion="-3.125">
+        <state line="6" column="9" selection-start="166" selection-end="166" vertical-scroll-proportion="-3.125">
           <folding />
         </state>
       </provider>
@@ -676,7 +678,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/search.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="3" selection-start="60" selection-end="60" vertical-scroll-proportion="0.033557046">
+        <state line="2" column="3" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.117713004">
           <folding />
         </state>
       </provider>
