@@ -1,6 +1,7 @@
 Ruby.SearchMapView = Ember.View.extend({
     tagName: 'section',
     classNames: ['map'],
+    attributeBindings: ['style'],
 
     map: null,
     latitudeBinding: '37.0',
@@ -25,7 +26,6 @@ Ruby.SearchMapView = Ember.View.extend({
                 ];
 
 
-
         var mapOptions = {
 
 
@@ -48,11 +48,10 @@ Ruby.SearchMapView = Ember.View.extend({
 
 
         };
-//        debugger;
         var map = new google.maps.Map(this.$().get(0),mapOptions);
         map.mapTypes.set('mystyle', new google.maps.StyledMapType(mapStyle, { name: 'Map' }));
         this.set('map',map); //save for future updations
-        this.$().css({ width: window.width, height: window.outerHeight });
+//        this.$().css({ width: $(window).width(), height: $(window).height() });
     }
 
 //    reRenderMap : function(){
